@@ -1,2 +1,10 @@
-let myName = Nhan;
-console.log(myName);
+let myLastName = NhanLam;
+console.log(myLastName);
+let myFirstName = Quang;;
+console.log(myFirstName);
+let myAge = 21;
+console.log(myAge);
+let myAddress = "Hanoi";
+console.log(myAddress);
+let myHobby = "Football";
+console.log(myHobby);
